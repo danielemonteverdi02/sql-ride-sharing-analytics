@@ -40,7 +40,7 @@ Le analisi coprono aspetti quali:
 
 ---
 
-# Sezione 1 - Query di Base
+# Sezione 1
 
 ## Obiettivo
 
@@ -77,7 +77,7 @@ Questa sezione rappresenta il livello fondamentale di SQL e costituisce la base 
 
 ---
 
-# Sezione 2 - Query Intermedie
+# Sezione 2
 
 ## Obiettivo
 
@@ -134,7 +134,7 @@ Questa sezione mostra la capacità di trasformare dati grezzi in informazioni ut
 
 ---
 
-# Sezione 3 - Analisi Avanzate con Window Functions
+# Sezione 3
 
 ## Obiettivo
 
